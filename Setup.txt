@@ -52,8 +52,8 @@ Add Tomcat Server to NetBeans
 	Click Finish
 
 
-Run the script "PROG 32758 - SheridanSports.sql" in MySQL Workbench!
+Run the script "PROG 32758 - MailingList.sql" in MySQL Workbench!
 
-Lastly, Open the prog32758.sheridansports project in NetBeans and Run.
+Lastly, Open the prog32758.subscriptionlist project in NetBeans and Run.
 
 
