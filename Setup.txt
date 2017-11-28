@@ -1,4 +1,4 @@
-﻿Note: If you have already done the setup for sheridansports then you only need to run the PROG 32758 - MailingList.sql file in MySQL Workbench.
+﻿Note: If you have already done the setup for sheridansports then you only need to run the "PROG 32758 - MailingList.sql" file in MySQL Workbench.
 
 Download JDK(JDK 8u25 or over Recommended):
 	http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
@@ -33,7 +33,7 @@ Setup Tomcat 8.x to Use JDK
 		Your path to JDK 8 may be different!
 
 
-Download NetBeans.(NetBeans 8.0 or later Recommended)
+Download NetBeans.(NetBeans 8.0 or over Recommended)
 	https://netbeans.org/downloads/
 	Select your jdk1.8.0_25 folder as the JDK to use with NetBeans
 	C:\Program Files\Java\jdk1.8.0_25 (or something similar)
